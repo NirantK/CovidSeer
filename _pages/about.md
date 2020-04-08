@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This project is thankful to the work of several volunteers and academics ranging from Johns Hopkins University to Covid19india.org. 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This consists of all the work done by [@meghanabhange](https://github.com/meghanabhange/) and @NirantK which is fit for public consumption by their personal opinion.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+This typically includes estimations, reviews and data visualisation to explore datasets. 
